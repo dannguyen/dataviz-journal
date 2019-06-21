@@ -37,6 +37,8 @@ Gun crime incidents (all columns)
 Raw crime data (all data)
 =========================
 
-- How to filter it
+- How to explore it (find gun-related crime)
+- Remove years
+- Explore other anomalies
 - CSV kit?
 - Excel filter?
